@@ -2,4 +2,4 @@
 
 For online mode:
 - cd game-server
-- node server.js '''
+- node server.js
