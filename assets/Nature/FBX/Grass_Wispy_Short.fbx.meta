@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "afec2156-b1e3-42a0-a021-28977bdfd2d4",
+  "files": [],
+  "subMetas": {
+    "30869": {
+      "importer": "gltf-scene",
+      "uuid": "afec2156-b1e3-42a0-a021-28977bdfd2d4@30869",
+      "displayName": "",
+      "id": "30869",
+      "name": "Grass_Wispy_Short.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "408eb": {
+      "importer": "gltf-mesh",
+      "uuid": "afec2156-b1e3-42a0-a021-28977bdfd2d4@408eb",
+      "displayName": "",
+      "id": "408eb",
+      "name": "Plane.033.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 494
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "afec2156-b1e3-42a0-a021-28977bdfd2d4@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Grass.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1834a": {
+      "importer": "gltf-material",
+      "uuid": "afec2156-b1e3-42a0-a021-28977bdfd2d4@1834a",
+      "displayName": "",
+      "id": "1834a",
+      "name": "Grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Grass.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "afec2156-b1e3-42a0-a021-28977bdfd2d4@408eb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "afec2156-b1e3-42a0-a021-28977bdfd2d4@7d6ab"
+      ],
+      "materials": [
+        "afec2156-b1e3-42a0-a021-28977bdfd2d4@1834a"
+      ],
+      "scenes": [
+        "afec2156-b1e3-42a0-a021-28977bdfd2d4@30869"
+      ]
+    }
+  }
+}

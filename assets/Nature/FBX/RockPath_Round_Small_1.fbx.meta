@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b80bd44c-45af-4632-ad91-7fecf4a0401b",
+  "files": [],
+  "subMetas": {
+    "92719": {
+      "importer": "gltf-mesh",
+      "uuid": "b80bd44c-45af-4632-ad91-7fecf4a0401b@92719",
+      "displayName": "",
+      "id": "92719",
+      "name": "Cube.017_Retopology.012.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 998
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "b80bd44c-45af-4632-ad91-7fecf4a0401b@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/PathRocks_Diffuse.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "647a1": {
+      "importer": "gltf-material",
+      "uuid": "b80bd44c-45af-4632-ad91-7fecf4a0401b@647a1",
+      "displayName": "",
+      "id": "647a1",
+      "name": "PathRocks.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5b98": {
+      "importer": "gltf-scene",
+      "uuid": "b80bd44c-45af-4632-ad91-7fecf4a0401b@d5b98",
+      "displayName": "",
+      "id": "d5b98",
+      "name": "RockPath_Round_Small_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/PathRocks_Diffuse.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b80bd44c-45af-4632-ad91-7fecf4a0401b@92719"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b80bd44c-45af-4632-ad91-7fecf4a0401b@7d6ab"
+      ],
+      "materials": [
+        "b80bd44c-45af-4632-ad91-7fecf4a0401b@647a1"
+      ],
+      "scenes": [
+        "b80bd44c-45af-4632-ad91-7fecf4a0401b@d5b98"
+      ]
+    }
+  }
+}

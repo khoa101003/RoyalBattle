@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c9aca6fe-f5df-410f-87e4-fcf9168602a7",
+  "files": [],
+  "subMetas": {
+    "18218": {
+      "importer": "gltf-scene",
+      "uuid": "c9aca6fe-f5df-410f-87e4-fcf9168602a7@18218",
+      "displayName": "",
+      "id": "18218",
+      "name": "wall_straight_gate.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "c9aca6fe-f5df-410f-87e4-fcf9168602a7@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a97d7": {
+      "importer": "gltf-mesh",
+      "uuid": "c9aca6fe-f5df-410f-87e4-fcf9168602a7@a97d7",
+      "displayName": "",
+      "id": "a97d7",
+      "name": "wall_straight_gate.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 340
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2df1": {
+      "importer": "gltf-mesh",
+      "uuid": "c9aca6fe-f5df-410f-87e4-fcf9168602a7@c2df1",
+      "displayName": "",
+      "id": "c2df1",
+      "name": "wall_straight_gate_door_left.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 240
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2538b": {
+      "importer": "gltf-mesh",
+      "uuid": "c9aca6fe-f5df-410f-87e4-fcf9168602a7@2538b",
+      "displayName": "",
+      "id": "2538b",
+      "name": "wall_straight_gate_door_right.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 240
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "c9aca6fe-f5df-410f-87e4-fcf9168602a7@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx/buildings/neutral/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx/buildings/neutral/hexagons_medieval.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c9aca6fe-f5df-410f-87e4-fcf9168602a7@a97d7",
+        "c9aca6fe-f5df-410f-87e4-fcf9168602a7@c2df1",
+        "c9aca6fe-f5df-410f-87e4-fcf9168602a7@2538b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c9aca6fe-f5df-410f-87e4-fcf9168602a7@7d6ab"
+      ],
+      "materials": [
+        "c9aca6fe-f5df-410f-87e4-fcf9168602a7@83472"
+      ],
+      "scenes": [
+        "c9aca6fe-f5df-410f-87e4-fcf9168602a7@18218"
+      ]
+    }
+  }
+}

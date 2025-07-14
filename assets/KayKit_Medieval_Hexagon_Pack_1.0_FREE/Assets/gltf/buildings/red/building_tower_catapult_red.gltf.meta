@@ -1,0 +1,161 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "8ab7d758-0c36-44cd-a613-7cc21b1d74e0",
+  "files": [],
+  "subMetas": {
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ec89": {
+      "importer": "gltf-mesh",
+      "uuid": "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@1ec89",
+      "displayName": "",
+      "id": "1ec89",
+      "name": "catapult_arm_red.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 400
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b3920": {
+      "importer": "gltf-mesh",
+      "uuid": "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@b3920",
+      "displayName": "",
+      "id": "b3920",
+      "name": "catapult_turret_red.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 926
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ed11": {
+      "importer": "gltf-mesh",
+      "uuid": "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@3ed11",
+      "displayName": "",
+      "id": "3ed11",
+      "name": "building_tower_catapult_red.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 1538
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/red/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc7df": {
+      "importer": "gltf-scene",
+      "uuid": "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@dc7df",
+      "displayName": "",
+      "id": "dc7df",
+      "name": "building_tower_catapult_red.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "hexagons_medieval",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/red/hexagons_medieval.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@1ec89",
+        "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@b3920",
+        "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@3ed11"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@e39f7"
+      ],
+      "materials": [
+        "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@83472"
+      ],
+      "scenes": [
+        "8ab7d758-0c36-44cd-a613-7cc21b1d74e0@dc7df"
+      ]
+    }
+  }
+}

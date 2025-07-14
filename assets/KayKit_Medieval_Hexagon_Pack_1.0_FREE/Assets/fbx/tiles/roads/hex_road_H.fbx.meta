@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5964b9f1-7603-4154-a467-f5badeb8ce9b",
+  "files": [],
+  "subMetas": {
+    "16345": {
+      "importer": "gltf-mesh",
+      "uuid": "5964b9f1-7603-4154-a467-f5badeb8ce9b@16345",
+      "displayName": "",
+      "id": "16345",
+      "name": "hex_road_H.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 190
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "5964b9f1-7603-4154-a467-f5badeb8ce9b@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "5964b9f1-7603-4154-a467-f5badeb8ce9b@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx/tiles/roads/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4914b": {
+      "importer": "gltf-scene",
+      "uuid": "5964b9f1-7603-4154-a467-f5badeb8ce9b@4914b",
+      "displayName": "",
+      "id": "4914b",
+      "name": "hex_road_H.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx/tiles/roads/hexagons_medieval.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "5964b9f1-7603-4154-a467-f5badeb8ce9b@16345"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5964b9f1-7603-4154-a467-f5badeb8ce9b@7d6ab"
+      ],
+      "materials": [
+        "5964b9f1-7603-4154-a467-f5badeb8ce9b@83472"
+      ],
+      "scenes": [
+        "5964b9f1-7603-4154-a467-f5badeb8ce9b@4914b"
+      ]
+    }
+  }
+}

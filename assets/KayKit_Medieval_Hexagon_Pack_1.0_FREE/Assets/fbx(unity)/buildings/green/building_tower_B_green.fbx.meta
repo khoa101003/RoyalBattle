@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1",
+  "files": [],
+  "subMetas": {
+    "34302": {
+      "importer": "gltf-mesh",
+      "uuid": "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@34302",
+      "displayName": "",
+      "id": "34302",
+      "name": "building_tower_B_top_green.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 880
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57df4": {
+      "importer": "gltf-mesh",
+      "uuid": "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@57df4",
+      "displayName": "",
+      "id": "57df4",
+      "name": "building_tower_B_green.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1538
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx(unity)/buildings/green/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1cb50": {
+      "importer": "gltf-scene",
+      "uuid": "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@1cb50",
+      "displayName": "",
+      "id": "1cb50",
+      "name": "building_tower_B_green.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx(unity)/buildings/green/hexagons_medieval.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@57df4",
+        "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@34302"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@7d6ab"
+      ],
+      "materials": [
+        "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@83472"
+      ],
+      "scenes": [
+        "9b7d8a31-b289-4541-8fb0-bb16ba22e8b1@1cb50"
+      ]
+    }
+  }
+}

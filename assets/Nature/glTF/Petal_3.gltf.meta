@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f6b71059-137f-4cea-ab87-555b4a3a9ce2",
+  "files": [],
+  "subMetas": {
+    "ca6da": {
+      "importer": "gltf-mesh",
+      "uuid": "f6b71059-137f-4cea-ab87-555b4a3a9ce2@ca6da",
+      "displayName": "",
+      "id": "ca6da",
+      "name": "Cylinder.011.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 15
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "f6b71059-137f-4cea-ab87-555b4a3a9ce2@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Flowers.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e67af": {
+      "importer": "gltf-material",
+      "uuid": "f6b71059-137f-4cea-ab87-555b4a3a9ce2@e67af",
+      "displayName": "",
+      "id": "e67af",
+      "name": "Flowers.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fdda": {
+      "importer": "gltf-scene",
+      "uuid": "f6b71059-137f-4cea-ab87-555b4a3a9ce2@0fdda",
+      "displayName": "",
+      "id": "0fdda",
+      "name": "Petal_3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Flowers",
+        "uri": "db://assets/Nature/glTF/Flowers.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f6b71059-137f-4cea-ab87-555b4a3a9ce2@ca6da"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f6b71059-137f-4cea-ab87-555b4a3a9ce2@e39f7"
+      ],
+      "materials": [
+        "f6b71059-137f-4cea-ab87-555b4a3a9ce2@e67af"
+      ],
+      "scenes": [
+        "f6b71059-137f-4cea-ab87-555b4a3a9ce2@0fdda"
+      ]
+    }
+  }
+}

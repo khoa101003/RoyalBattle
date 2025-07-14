@@ -1,0 +1,151 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "c7f43410-bd98-4b4e-8f69-768b0de7658a",
+  "files": [],
+  "subMetas": {
+    "57114": {
+      "importer": "gltf-material",
+      "uuid": "c7f43410-bd98-4b4e-8f69-768b0de7658a@57114",
+      "displayName": "",
+      "id": "57114",
+      "name": "Bark_DeadTree.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4a837": {
+      "importer": "gltf-mesh",
+      "uuid": "c7f43410-bd98-4b4e-8f69-768b0de7658a@4a837",
+      "displayName": "",
+      "id": "4a837",
+      "name": "tree.021.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 5648
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "c7f43410-bd98-4b4e-8f69-768b0de7658a@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Bark_DeadTree_Normal.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "c7f43410-bd98-4b4e-8f69-768b0de7658a@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Bark_DeadTree.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa4f9": {
+      "importer": "gltf-scene",
+      "uuid": "c7f43410-bd98-4b4e-8f69-768b0de7658a@aa4f9",
+      "displayName": "",
+      "id": "aa4f9",
+      "name": "DeadTree_5.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Bark_DeadTree_Normal",
+        "uri": "db://assets/Nature/glTF/Bark_DeadTree_Normal.png"
+      },
+      {
+        "name": "Bark_DeadTree",
+        "uri": "db://assets/Nature/glTF/Bark_DeadTree.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c7f43410-bd98-4b4e-8f69-768b0de7658a@4a837"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c7f43410-bd98-4b4e-8f69-768b0de7658a@3effa",
+        "c7f43410-bd98-4b4e-8f69-768b0de7658a@221a5"
+      ],
+      "materials": [
+        "c7f43410-bd98-4b4e-8f69-768b0de7658a@57114"
+      ],
+      "scenes": [
+        "c7f43410-bd98-4b4e-8f69-768b0de7658a@aa4f9"
+      ]
+    }
+  }
+}

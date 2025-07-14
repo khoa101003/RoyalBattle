@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "23e21411-d8d9-4132-aeb2-f2261ef25ef5",
+  "files": [],
+  "subMetas": {
+    "88786": {
+      "importer": "gltf-material",
+      "uuid": "23e21411-d8d9-4132-aeb2-f2261ef25ef5@88786",
+      "displayName": "",
+      "id": "88786",
+      "name": "Leaves_TwistedTree.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6548": {
+      "importer": "gltf-mesh",
+      "uuid": "23e21411-d8d9-4132-aeb2-f2261ef25ef5@d6548",
+      "displayName": "",
+      "id": "d6548",
+      "name": "tree.008.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 900
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "23e21411-d8d9-4132-aeb2-f2261ef25ef5@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Leaves_TwistedTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "95bcb": {
+      "importer": "gltf-scene",
+      "uuid": "23e21411-d8d9-4132-aeb2-f2261ef25ef5@95bcb",
+      "displayName": "",
+      "id": "95bcb",
+      "name": "Bush_Common.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Leaves_TwistedTree_C",
+        "uri": "db://assets/Nature/glTF/Leaves_TwistedTree_C.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "23e21411-d8d9-4132-aeb2-f2261ef25ef5@d6548"
+      ],
+      "skeletons": [],
+      "textures": [
+        "23e21411-d8d9-4132-aeb2-f2261ef25ef5@e39f7"
+      ],
+      "materials": [
+        "23e21411-d8d9-4132-aeb2-f2261ef25ef5@88786"
+      ],
+      "scenes": [
+        "23e21411-d8d9-4132-aeb2-f2261ef25ef5@95bcb"
+      ]
+    }
+  }
+}

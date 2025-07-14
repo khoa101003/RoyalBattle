@@ -1,0 +1,227 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c",
+  "files": [],
+  "subMetas": {
+    "37284": {
+      "importer": "texture",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@37284",
+      "displayName": "",
+      "id": "37284",
+      "name": "normalmap_texture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Bark_TwistedTree_Normal.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "88786": {
+      "importer": "gltf-material",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@88786",
+      "displayName": "",
+      "id": "88786",
+      "name": "Leaves_TwistedTree.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26b35": {
+      "importer": "gltf-mesh",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@26b35",
+      "displayName": "",
+      "id": "26b35",
+      "name": "tree.040.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 10089
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a1ef": {
+      "importer": "texture",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@0a1ef",
+      "displayName": "",
+      "id": "0a1ef",
+      "name": "base_color_texture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Bark_TwistedTree.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8518": {
+      "importer": "texture",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@b8518",
+      "displayName": "",
+      "id": "b8518",
+      "name": "base_color_texture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a1b4": {
+      "importer": "texture",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@7a1b4",
+      "displayName": "",
+      "id": "7a1b4",
+      "name": "alpha_texture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad3f5": {
+      "importer": "gltf-material",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@ad3f5",
+      "displayName": "",
+      "id": "ad3f5",
+      "name": "Bark_TwistedTree.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d55f": {
+      "importer": "gltf-scene",
+      "uuid": "9e132682-6738-4fe2-af67-91ca0160a19c@8d55f",
+      "displayName": "",
+      "id": "8d55f",
+      "name": "TwistedTree_3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Bark_TwistedTree.png"
+      },
+      {
+        "name": "normalmap_texture",
+        "uri": "db://assets/Nature/Textures/Bark_TwistedTree_Normal.png"
+      },
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      },
+      {
+        "name": "alpha_texture",
+        "uri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9e132682-6738-4fe2-af67-91ca0160a19c@26b35"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9e132682-6738-4fe2-af67-91ca0160a19c@0a1ef",
+        "9e132682-6738-4fe2-af67-91ca0160a19c@37284",
+        "9e132682-6738-4fe2-af67-91ca0160a19c@b8518",
+        "9e132682-6738-4fe2-af67-91ca0160a19c@7a1b4"
+      ],
+      "materials": [
+        "9e132682-6738-4fe2-af67-91ca0160a19c@ad3f5",
+        "9e132682-6738-4fe2-af67-91ca0160a19c@88786"
+      ],
+      "scenes": [
+        "9e132682-6738-4fe2-af67-91ca0160a19c@8d55f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "ff252220-78c9-4a03-a76d-226780b4da1c",
+  "files": [],
+  "subMetas": {
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "ff252220-78c9-4a03-a76d-226780b4da1c@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4469f": {
+      "importer": "gltf-mesh",
+      "uuid": "ff252220-78c9-4a03-a76d-226780b4da1c@4469f",
+      "displayName": "",
+      "id": "4469f",
+      "name": "building_home_A_blue.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1011
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "ff252220-78c9-4a03-a76d-226780b4da1c@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/blue/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e203b": {
+      "importer": "gltf-scene",
+      "uuid": "ff252220-78c9-4a03-a76d-226780b4da1c@e203b",
+      "displayName": "",
+      "id": "e203b",
+      "name": "building_home_A_blue.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "hexagons_medieval",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/blue/hexagons_medieval.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ff252220-78c9-4a03-a76d-226780b4da1c@4469f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ff252220-78c9-4a03-a76d-226780b4da1c@e39f7"
+      ],
+      "materials": [
+        "ff252220-78c9-4a03-a76d-226780b4da1c@83472"
+      ],
+      "scenes": [
+        "ff252220-78c9-4a03-a76d-226780b4da1c@e203b"
+      ]
+    }
+  }
+}

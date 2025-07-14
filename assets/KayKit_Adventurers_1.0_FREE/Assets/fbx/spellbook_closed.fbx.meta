@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "31e10294-993f-4d64-9e63-516a02e65204",
+  "files": [],
+  "subMetas": {
+    "64786": {
+      "importer": "gltf-scene",
+      "uuid": "31e10294-993f-4d64-9e63-516a02e65204@64786",
+      "displayName": "",
+      "id": "64786",
+      "name": "spellbook_closed.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e544": {
+      "importer": "gltf-mesh",
+      "uuid": "31e10294-993f-4d64-9e63-516a02e65204@4e544",
+      "displayName": "",
+      "id": "4e544",
+      "name": "Cube.12901.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 292
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "31e10294-993f-4d64-9e63-516a02e65204@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Adventurers_1.0_FREE/Assets/fbx/mage_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d87d": {
+      "importer": "gltf-material",
+      "uuid": "31e10294-993f-4d64-9e63-516a02e65204@3d87d",
+      "displayName": "",
+      "id": "3d87d",
+      "name": "mage_texture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/KayKit_Adventurers_1.0_FREE/Assets/fbx/mage_texture.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "31e10294-993f-4d64-9e63-516a02e65204@4e544"
+      ],
+      "skeletons": [],
+      "textures": [
+        "31e10294-993f-4d64-9e63-516a02e65204@7d6ab"
+      ],
+      "materials": [
+        "31e10294-993f-4d64-9e63-516a02e65204@3d87d"
+      ],
+      "scenes": [
+        "31e10294-993f-4d64-9e63-516a02e65204@64786"
+      ]
+    }
+  }
+}

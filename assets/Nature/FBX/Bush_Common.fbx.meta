@@ -1,0 +1,154 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0a1960db-e487-47be-aefa-35efff4a04b6",
+  "files": [],
+  "subMetas": {
+    "88786": {
+      "importer": "gltf-material",
+      "uuid": "0a1960db-e487-47be-aefa-35efff4a04b6@88786",
+      "displayName": "",
+      "id": "88786",
+      "name": "Leaves_TwistedTree.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6548": {
+      "importer": "gltf-mesh",
+      "uuid": "0a1960db-e487-47be-aefa-35efff4a04b6@d6548",
+      "displayName": "",
+      "id": "d6548",
+      "name": "tree.008.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 900
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "0a1960db-e487-47be-aefa-35efff4a04b6@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43a9c": {
+      "importer": "texture",
+      "uuid": "0a1960db-e487-47be-aefa-35efff4a04b6@43a9c",
+      "displayName": "",
+      "id": "43a9c",
+      "name": "alpha_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "95bcb": {
+      "importer": "gltf-scene",
+      "uuid": "0a1960db-e487-47be-aefa-35efff4a04b6@95bcb",
+      "displayName": "",
+      "id": "95bcb",
+      "name": "Bush_Common.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      },
+      {
+        "name": "alpha_texture",
+        "uri": "db://assets/Nature/Textures/Leaves_TwistedTree_C.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0a1960db-e487-47be-aefa-35efff4a04b6@d6548"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0a1960db-e487-47be-aefa-35efff4a04b6@7d6ab",
+        "0a1960db-e487-47be-aefa-35efff4a04b6@43a9c"
+      ],
+      "materials": [
+        "0a1960db-e487-47be-aefa-35efff4a04b6@88786"
+      ],
+      "scenes": [
+        "0a1960db-e487-47be-aefa-35efff4a04b6@95bcb"
+      ]
+    }
+  }
+}

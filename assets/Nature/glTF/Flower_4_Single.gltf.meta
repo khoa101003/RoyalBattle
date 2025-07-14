@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "ad686396-179c-41e8-8e17-777d1c468b9c",
+  "files": [],
+  "subMetas": {
+    "a5f8b": {
+      "importer": "gltf-mesh",
+      "uuid": "ad686396-179c-41e8-8e17-777d1c468b9c@a5f8b",
+      "displayName": "",
+      "id": "a5f8b",
+      "name": "Plane.001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 642
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "ad686396-179c-41e8-8e17-777d1c468b9c@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Leaves.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "ad686396-179c-41e8-8e17-777d1c468b9c@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Flowers.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb3dc": {
+      "importer": "gltf-material",
+      "uuid": "ad686396-179c-41e8-8e17-777d1c468b9c@bb3dc",
+      "displayName": "",
+      "id": "bb3dc",
+      "name": "Leaves.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e67af": {
+      "importer": "gltf-material",
+      "uuid": "ad686396-179c-41e8-8e17-777d1c468b9c@e67af",
+      "displayName": "",
+      "id": "e67af",
+      "name": "Flowers.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9dcc4": {
+      "importer": "gltf-scene",
+      "uuid": "ad686396-179c-41e8-8e17-777d1c468b9c@9dcc4",
+      "displayName": "",
+      "id": "9dcc4",
+      "name": "Flower_4_Single.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Leaves",
+        "uri": "db://assets/Nature/glTF/Leaves.png"
+      },
+      {
+        "name": "Flowers",
+        "uri": "db://assets/Nature/glTF/Flowers.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ad686396-179c-41e8-8e17-777d1c468b9c@a5f8b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ad686396-179c-41e8-8e17-777d1c468b9c@3effa",
+        "ad686396-179c-41e8-8e17-777d1c468b9c@221a5"
+      ],
+      "materials": [
+        "ad686396-179c-41e8-8e17-777d1c468b9c@bb3dc",
+        "ad686396-179c-41e8-8e17-777d1c468b9c@e67af"
+      ],
+      "scenes": [
+        "ad686396-179c-41e8-8e17-777d1c468b9c@9dcc4"
+      ]
+    }
+  }
+}

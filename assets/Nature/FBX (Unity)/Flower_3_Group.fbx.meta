@@ -1,0 +1,227 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27",
+  "files": [],
+  "subMetas": {
+    "00d55": {
+      "importer": "gltf-mesh",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@00d55",
+      "displayName": "",
+      "id": "00d55",
+      "name": "Plane.021.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 755
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a1ef": {
+      "importer": "texture",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@0a1ef",
+      "displayName": "",
+      "id": "0a1ef",
+      "name": "base_color_texture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fb77": {
+      "importer": "texture",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@3fb77",
+      "displayName": "",
+      "id": "3fb77",
+      "name": "alpha_texture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8518": {
+      "importer": "texture",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@b8518",
+      "displayName": "",
+      "id": "b8518",
+      "name": "base_color_texture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Flowers.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a1b4": {
+      "importer": "texture",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@7a1b4",
+      "displayName": "",
+      "id": "7a1b4",
+      "name": "alpha_texture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Flowers.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb3dc": {
+      "importer": "gltf-material",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@bb3dc",
+      "displayName": "",
+      "id": "bb3dc",
+      "name": "Leaves.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e67af": {
+      "importer": "gltf-material",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@e67af",
+      "displayName": "",
+      "id": "e67af",
+      "name": "Flowers.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e6fc": {
+      "importer": "gltf-scene",
+      "uuid": "b0d86942-0e01-43d0-8375-ecc91b68af27@4e6fc",
+      "displayName": "",
+      "id": "4e6fc",
+      "name": "Flower_3_Group.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Leaves.png"
+      },
+      {
+        "name": "alpha_texture",
+        "uri": "db://assets/Nature/Textures/Leaves.png"
+      },
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Flowers.png"
+      },
+      {
+        "name": "alpha_texture",
+        "uri": "db://assets/Nature/Textures/Flowers.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@00d55"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@0a1ef",
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@3fb77",
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@b8518",
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@7a1b4"
+      ],
+      "materials": [
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@bb3dc",
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@e67af"
+      ],
+      "scenes": [
+        "b0d86942-0e01-43d0-8375-ecc91b68af27@4e6fc"
+      ]
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d1aa7123-e614-444f-b295-d24b4a8aaa13",
+  "files": [],
+  "subMetas": {
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "d1aa7123-e614-444f-b295-d24b4a8aaa13@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41bc4": {
+      "importer": "gltf-mesh",
+      "uuid": "d1aa7123-e614-444f-b295-d24b4a8aaa13@41bc4",
+      "displayName": "",
+      "id": "41bc4",
+      "name": "fence_wood_straight_gate.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 200
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87ffa": {
+      "importer": "gltf-mesh",
+      "uuid": "d1aa7123-e614-444f-b295-d24b4a8aaa13@87ffa",
+      "displayName": "",
+      "id": "87ffa",
+      "name": "fence_wood_straight_door.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 108
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "d1aa7123-e614-444f-b295-d24b4a8aaa13@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx/buildings/neutral/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "957b8": {
+      "importer": "gltf-scene",
+      "uuid": "d1aa7123-e614-444f-b295-d24b4a8aaa13@957b8",
+      "displayName": "",
+      "id": "957b8",
+      "name": "fence_wood_straight_gate.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx/buildings/neutral/hexagons_medieval.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "d1aa7123-e614-444f-b295-d24b4a8aaa13@41bc4",
+        "d1aa7123-e614-444f-b295-d24b4a8aaa13@87ffa"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d1aa7123-e614-444f-b295-d24b4a8aaa13@7d6ab"
+      ],
+      "materials": [
+        "d1aa7123-e614-444f-b295-d24b4a8aaa13@83472"
+      ],
+      "scenes": [
+        "d1aa7123-e614-444f-b295-d24b4a8aaa13@957b8"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0e631be6-fcb0-4b10-9523-ccb9e7ef6614",
+  "files": [],
+  "subMetas": {
+    "4a274": {
+      "importer": "gltf-mesh",
+      "uuid": "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@4a274",
+      "displayName": "",
+      "id": "4a274",
+      "name": "Plane.027.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Flowers.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43a9c": {
+      "importer": "texture",
+      "uuid": "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@43a9c",
+      "displayName": "",
+      "id": "43a9c",
+      "name": "alpha_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Flowers.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e67af": {
+      "importer": "gltf-material",
+      "uuid": "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@e67af",
+      "displayName": "",
+      "id": "e67af",
+      "name": "Flowers.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc748": {
+      "importer": "gltf-scene",
+      "uuid": "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@bc748",
+      "displayName": "",
+      "id": "bc748",
+      "name": "Petal_4.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Flowers.png"
+      },
+      {
+        "name": "alpha_texture",
+        "uri": "db://assets/Nature/Textures/Flowers.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@4a274"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@7d6ab",
+        "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@43a9c"
+      ],
+      "materials": [
+        "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@e67af"
+      ],
+      "scenes": [
+        "0e631be6-fcb0-4b10-9523-ccb9e7ef6614@bc748"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "21d79513-17c7-41a8-af33-85a34465ed97",
+  "files": [],
+  "subMetas": {
+    "0b3b2": {
+      "importer": "gltf-mesh",
+      "uuid": "21d79513-17c7-41a8-af33-85a34465ed97@0b3b2",
+      "displayName": "",
+      "id": "0b3b2",
+      "name": "Plane.035.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 360
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "21d79513-17c7-41a8-af33-85a34465ed97@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Leaves.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb3dc": {
+      "importer": "gltf-material",
+      "uuid": "21d79513-17c7-41a8-af33-85a34465ed97@bb3dc",
+      "displayName": "",
+      "id": "bb3dc",
+      "name": "Leaves.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c883": {
+      "importer": "gltf-scene",
+      "uuid": "21d79513-17c7-41a8-af33-85a34465ed97@1c883",
+      "displayName": "",
+      "id": "1c883",
+      "name": "Plant_1_Big.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Leaves",
+        "uri": "db://assets/Nature/glTF/Leaves.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "21d79513-17c7-41a8-af33-85a34465ed97@0b3b2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "21d79513-17c7-41a8-af33-85a34465ed97@e39f7"
+      ],
+      "materials": [
+        "21d79513-17c7-41a8-af33-85a34465ed97@bb3dc"
+      ],
+      "scenes": [
+        "21d79513-17c7-41a8-af33-85a34465ed97@1c883"
+      ]
+    }
+  }
+}

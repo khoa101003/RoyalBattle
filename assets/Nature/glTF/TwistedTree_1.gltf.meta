@@ -1,0 +1,196 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543",
+  "files": [],
+  "subMetas": {
+    "88786": {
+      "importer": "gltf-material",
+      "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543@88786",
+      "displayName": "",
+      "id": "88786",
+      "name": "Leaves_TwistedTree.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6497": {
+      "importer": "gltf-mesh",
+      "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543@c6497",
+      "displayName": "",
+      "id": "c6497",
+      "name": "tree.038.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 9564
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Bark_TwistedTree_Normal.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Bark_TwistedTree.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Leaves_TwistedTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad3f5": {
+      "importer": "gltf-material",
+      "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543@ad3f5",
+      "displayName": "",
+      "id": "ad3f5",
+      "name": "Bark_TwistedTree.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "338b8": {
+      "importer": "gltf-scene",
+      "uuid": "e1cffc16-d430-4749-a4f2-9d538e647543@338b8",
+      "displayName": "",
+      "id": "338b8",
+      "name": "TwistedTree_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Bark_TwistedTree_Normal",
+        "uri": "db://assets/Nature/glTF/Bark_TwistedTree_Normal.png"
+      },
+      {
+        "name": "Bark_TwistedTree",
+        "uri": "db://assets/Nature/glTF/Bark_TwistedTree.png"
+      },
+      {
+        "name": "Leaves_TwistedTree_C",
+        "uri": "db://assets/Nature/glTF/Leaves_TwistedTree_C.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e1cffc16-d430-4749-a4f2-9d538e647543@c6497"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e1cffc16-d430-4749-a4f2-9d538e647543@3effa",
+        "e1cffc16-d430-4749-a4f2-9d538e647543@221a5",
+        "e1cffc16-d430-4749-a4f2-9d538e647543@0089c"
+      ],
+      "materials": [
+        "e1cffc16-d430-4749-a4f2-9d538e647543@ad3f5",
+        "e1cffc16-d430-4749-a4f2-9d538e647543@88786"
+      ],
+      "scenes": [
+        "e1cffc16-d430-4749-a4f2-9d538e647543@338b8"
+      ]
+    }
+  }
+}

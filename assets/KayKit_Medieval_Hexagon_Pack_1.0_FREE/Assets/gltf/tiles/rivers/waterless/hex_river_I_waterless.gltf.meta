@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a2186580-f640-486e-82cd-510ae2a0e3ea",
+  "files": [],
+  "subMetas": {
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "a2186580-f640-486e-82cd-510ae2a0e3ea@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "643b3": {
+      "importer": "gltf-mesh",
+      "uuid": "a2186580-f640-486e-82cd-510ae2a0e3ea@643b3",
+      "displayName": "",
+      "id": "643b3",
+      "name": "hex_river_I_waterless.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 168
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "a2186580-f640-486e-82cd-510ae2a0e3ea@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/tiles/rivers/waterless/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef606": {
+      "importer": "gltf-scene",
+      "uuid": "a2186580-f640-486e-82cd-510ae2a0e3ea@ef606",
+      "displayName": "",
+      "id": "ef606",
+      "name": "hex_river_I_waterless.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "hexagons_medieval",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/tiles/rivers/waterless/hexagons_medieval.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a2186580-f640-486e-82cd-510ae2a0e3ea@643b3"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a2186580-f640-486e-82cd-510ae2a0e3ea@e39f7"
+      ],
+      "materials": [
+        "a2186580-f640-486e-82cd-510ae2a0e3ea@83472"
+      ],
+      "scenes": [
+        "a2186580-f640-486e-82cd-510ae2a0e3ea@ef606"
+      ]
+    }
+  }
+}

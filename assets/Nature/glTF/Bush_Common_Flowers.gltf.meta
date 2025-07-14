@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "bd318eae-d965-4ee2-b8b2-1e878fb13670",
+  "files": [],
+  "subMetas": {
+    "da573": {
+      "importer": "gltf-mesh",
+      "uuid": "bd318eae-d965-4ee2-b8b2-1e878fb13670@da573",
+      "displayName": "",
+      "id": "da573",
+      "name": "tree.009.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1368
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "bd318eae-d965-4ee2-b8b2-1e878fb13670@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Leaves_NormalTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "bd318eae-d965-4ee2-b8b2-1e878fb13670@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Flowers.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d05bc": {
+      "importer": "gltf-material",
+      "uuid": "bd318eae-d965-4ee2-b8b2-1e878fb13670@d05bc",
+      "displayName": "",
+      "id": "d05bc",
+      "name": "Leaves_NormalTree.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e67af": {
+      "importer": "gltf-material",
+      "uuid": "bd318eae-d965-4ee2-b8b2-1e878fb13670@e67af",
+      "displayName": "",
+      "id": "e67af",
+      "name": "Flowers.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3f09": {
+      "importer": "gltf-scene",
+      "uuid": "bd318eae-d965-4ee2-b8b2-1e878fb13670@f3f09",
+      "displayName": "",
+      "id": "f3f09",
+      "name": "Bush_Common_Flowers.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Leaves_NormalTree_C",
+        "uri": "db://assets/Nature/glTF/Leaves_NormalTree_C.png"
+      },
+      {
+        "name": "Flowers",
+        "uri": "db://assets/Nature/glTF/Flowers.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "bd318eae-d965-4ee2-b8b2-1e878fb13670@da573"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bd318eae-d965-4ee2-b8b2-1e878fb13670@3effa",
+        "bd318eae-d965-4ee2-b8b2-1e878fb13670@221a5"
+      ],
+      "materials": [
+        "bd318eae-d965-4ee2-b8b2-1e878fb13670@d05bc",
+        "bd318eae-d965-4ee2-b8b2-1e878fb13670@e67af"
+      ],
+      "scenes": [
+        "bd318eae-d965-4ee2-b8b2-1e878fb13670@f3f09"
+      ]
+    }
+  }
+}

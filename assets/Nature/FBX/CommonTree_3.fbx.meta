@@ -1,0 +1,227 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b",
+  "files": [],
+  "subMetas": {
+    "37284": {
+      "importer": "texture",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@37284",
+      "displayName": "",
+      "id": "37284",
+      "name": "normalmap_texture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Bark_NormalTree_Normal.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71388": {
+      "importer": "gltf-scene",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@71388",
+      "displayName": "",
+      "id": "71388",
+      "name": "CommonTree_3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7d79": {
+      "importer": "gltf-mesh",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@e7d79",
+      "displayName": "",
+      "id": "e7d79",
+      "name": "tree.025.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 3505
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a1ef": {
+      "importer": "texture",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@0a1ef",
+      "displayName": "",
+      "id": "0a1ef",
+      "name": "base_color_texture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Bark_NormalTree.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8518": {
+      "importer": "texture",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@b8518",
+      "displayName": "",
+      "id": "b8518",
+      "name": "base_color_texture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves_NormalTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a1b4": {
+      "importer": "texture",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@7a1b4",
+      "displayName": "",
+      "id": "7a1b4",
+      "name": "alpha_texture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Leaves_NormalTree_C.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b679": {
+      "importer": "gltf-material",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@6b679",
+      "displayName": "",
+      "id": "6b679",
+      "name": "Bark_NormalTree.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d05bc": {
+      "importer": "gltf-material",
+      "uuid": "5dd14b22-5302-4dad-b446-17550dc4b08b@d05bc",
+      "displayName": "",
+      "id": "d05bc",
+      "name": "Leaves_NormalTree.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Bark_NormalTree.png"
+      },
+      {
+        "name": "normalmap_texture",
+        "uri": "db://assets/Nature/Textures/Bark_NormalTree_Normal.png"
+      },
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Leaves_NormalTree_C.png"
+      },
+      {
+        "name": "alpha_texture",
+        "uri": "db://assets/Nature/Textures/Leaves_NormalTree_C.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@e7d79"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@0a1ef",
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@37284",
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@b8518",
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@7a1b4"
+      ],
+      "materials": [
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@6b679",
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@d05bc"
+      ],
+      "scenes": [
+        "5dd14b22-5302-4dad-b446-17550dc4b08b@71388"
+      ]
+    }
+  }
+}

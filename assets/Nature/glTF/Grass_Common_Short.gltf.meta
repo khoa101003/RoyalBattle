@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0",
+  "files": [],
+  "subMetas": {
+    "32aeb": {
+      "importer": "gltf-mesh",
+      "uuid": "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@32aeb",
+      "displayName": "",
+      "id": "32aeb",
+      "name": "Plane.014.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 155
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/glTF/Grass.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1834a": {
+      "importer": "gltf-material",
+      "uuid": "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@1834a",
+      "displayName": "",
+      "id": "1834a",
+      "name": "Grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec127": {
+      "importer": "gltf-scene",
+      "uuid": "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@ec127",
+      "displayName": "",
+      "id": "ec127",
+      "name": "Grass_Common_Short.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Grass",
+        "uri": "db://assets/Nature/glTF/Grass.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@32aeb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@e39f7"
+      ],
+      "materials": [
+        "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@1834a"
+      ],
+      "scenes": [
+        "d992c19c-b612-4f3c-bd09-dfe82fdb6bd0@ec127"
+      ]
+    }
+  }
+}

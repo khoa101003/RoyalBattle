@@ -1,0 +1,15 @@
+{
+  "name": "NewProject_1",
+  "uuid": "8ce215b8-0e6d-4a1e-a830-8ae5f11bfea4",
+  "creator": {
+    "version": "3.8.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@types/socket.io-client": "^1.4.36"
+  }
+}

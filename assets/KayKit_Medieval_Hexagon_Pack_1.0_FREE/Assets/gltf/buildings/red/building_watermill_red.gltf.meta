@@ -1,0 +1,142 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "ce9f5afb-19ae-4100-9a74-e1b178806225",
+  "files": [],
+  "subMetas": {
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "ce9f5afb-19ae-4100-9a74-e1b178806225@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1134": {
+      "importer": "gltf-mesh",
+      "uuid": "ce9f5afb-19ae-4100-9a74-e1b178806225@f1134",
+      "displayName": "",
+      "id": "f1134",
+      "name": "building_watermill_wheel_red.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 608
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc987": {
+      "importer": "gltf-mesh",
+      "uuid": "ce9f5afb-19ae-4100-9a74-e1b178806225@dc987",
+      "displayName": "",
+      "id": "dc987",
+      "name": "building_watermill_red.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 1313
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "ce9f5afb-19ae-4100-9a74-e1b178806225@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/red/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7215b": {
+      "importer": "gltf-scene",
+      "uuid": "ce9f5afb-19ae-4100-9a74-e1b178806225@7215b",
+      "displayName": "",
+      "id": "7215b",
+      "name": "building_watermill_red.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "hexagons_medieval",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/red/hexagons_medieval.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ce9f5afb-19ae-4100-9a74-e1b178806225@f1134",
+        "ce9f5afb-19ae-4100-9a74-e1b178806225@dc987"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ce9f5afb-19ae-4100-9a74-e1b178806225@e39f7"
+      ],
+      "materials": [
+        "ce9f5afb-19ae-4100-9a74-e1b178806225@83472"
+      ],
+      "scenes": [
+        "ce9f5afb-19ae-4100-9a74-e1b178806225@7215b"
+      ]
+    }
+  }
+}

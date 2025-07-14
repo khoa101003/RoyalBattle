@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb",
+  "files": [],
+  "subMetas": {
+    "82628": {
+      "importer": "gltf-material",
+      "uuid": "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@82628",
+      "displayName": "",
+      "id": "82628",
+      "name": "Rocks.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16b19": {
+      "importer": "gltf-mesh",
+      "uuid": "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@16b19",
+      "displayName": "",
+      "id": "16b19",
+      "name": "Cube.002_Retopology.001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 522
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Nature/Textures/Rocks_Diffuse.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb12d": {
+      "importer": "gltf-scene",
+      "uuid": "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@bb12d",
+      "displayName": "",
+      "id": "bb12d",
+      "name": "Rock_Medium_3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Nature/Textures/Rocks_Diffuse.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@16b19"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@7d6ab"
+      ],
+      "materials": [
+        "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@82628"
+      ],
+      "scenes": [
+        "2ebbd771-6a1b-47ff-b1d8-432ac77e54cb@bb12d"
+      ]
+    }
+  }
+}

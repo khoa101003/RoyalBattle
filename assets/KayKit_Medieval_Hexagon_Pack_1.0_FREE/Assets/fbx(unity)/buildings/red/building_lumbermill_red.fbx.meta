@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6",
+  "files": [],
+  "subMetas": {
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce26d": {
+      "importer": "gltf-mesh",
+      "uuid": "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@ce26d",
+      "displayName": "",
+      "id": "ce26d",
+      "name": "building_lumbermill_red.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1720
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0f6c4": {
+      "importer": "gltf-mesh",
+      "uuid": "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@0f6c4",
+      "displayName": "",
+      "id": "0f6c4",
+      "name": "building_lumbermill_saw_red.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 300
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c4ea": {
+      "importer": "gltf-mesh",
+      "uuid": "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@0c4ea",
+      "displayName": "",
+      "id": "0c4ea",
+      "name": "building_lumbermill_top_red.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 1150
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx(unity)/buildings/red/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16d54": {
+      "importer": "gltf-scene",
+      "uuid": "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@16d54",
+      "displayName": "",
+      "id": "16d54",
+      "name": "building_lumbermill_red.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx(unity)/buildings/red/hexagons_medieval.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@ce26d",
+        "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@0f6c4",
+        "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@0c4ea"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@7d6ab"
+      ],
+      "materials": [
+        "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@83472"
+      ],
+      "scenes": [
+        "c21dc4c3-f1ae-4683-bf30-24a81fd1d1c6@16d54"
+      ]
+    }
+  }
+}

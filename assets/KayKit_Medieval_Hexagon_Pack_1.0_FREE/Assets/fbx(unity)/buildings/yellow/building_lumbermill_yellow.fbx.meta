@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "efd7dd6b-2847-4330-bebe-5e782daa0d2a",
+  "files": [],
+  "subMetas": {
+    "66946": {
+      "importer": "gltf-scene",
+      "uuid": "efd7dd6b-2847-4330-bebe-5e782daa0d2a@66946",
+      "displayName": "",
+      "id": "66946",
+      "name": "building_lumbermill_yellow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "efd7dd6b-2847-4330-bebe-5e782daa0d2a@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c97e6": {
+      "importer": "gltf-mesh",
+      "uuid": "efd7dd6b-2847-4330-bebe-5e782daa0d2a@c97e6",
+      "displayName": "",
+      "id": "c97e6",
+      "name": "building_lumbermill_yellow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1720
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e65d": {
+      "importer": "gltf-mesh",
+      "uuid": "efd7dd6b-2847-4330-bebe-5e782daa0d2a@2e65d",
+      "displayName": "",
+      "id": "2e65d",
+      "name": "building_lumbermill_saw_yellow.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 300
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5a44": {
+      "importer": "gltf-mesh",
+      "uuid": "efd7dd6b-2847-4330-bebe-5e782daa0d2a@c5a44",
+      "displayName": "",
+      "id": "c5a44",
+      "name": "building_lumbermill_top_yellow.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 1150
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "efd7dd6b-2847-4330-bebe-5e782daa0d2a@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx(unity)/buildings/yellow/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/fbx(unity)/buildings/yellow/hexagons_medieval.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "efd7dd6b-2847-4330-bebe-5e782daa0d2a@c97e6",
+        "efd7dd6b-2847-4330-bebe-5e782daa0d2a@2e65d",
+        "efd7dd6b-2847-4330-bebe-5e782daa0d2a@c5a44"
+      ],
+      "skeletons": [],
+      "textures": [
+        "efd7dd6b-2847-4330-bebe-5e782daa0d2a@7d6ab"
+      ],
+      "materials": [
+        "efd7dd6b-2847-4330-bebe-5e782daa0d2a@83472"
+      ],
+      "scenes": [
+        "efd7dd6b-2847-4330-bebe-5e782daa0d2a@66946"
+      ]
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "5df0ced7-e4c7-410b-9f1e-bbdf943df955",
+  "files": [],
+  "subMetas": {
+    "52224": {
+      "importer": "gltf-mesh",
+      "uuid": "5df0ced7-e4c7-410b-9f1e-bbdf943df955@52224",
+      "displayName": "",
+      "id": "52224",
+      "name": "building_windmill_top_fan_yellow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 360
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83472": {
+      "importer": "gltf-material",
+      "uuid": "5df0ced7-e4c7-410b-9f1e-bbdf943df955@83472",
+      "displayName": "",
+      "id": "83472",
+      "name": "hexagons_medieval.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c79ad": {
+      "importer": "gltf-mesh",
+      "uuid": "5df0ced7-e4c7-410b-9f1e-bbdf943df955@c79ad",
+      "displayName": "",
+      "id": "c79ad",
+      "name": "building_windmill_top_yellow.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 513
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ecb0e": {
+      "importer": "gltf-mesh",
+      "uuid": "5df0ced7-e4c7-410b-9f1e-bbdf943df955@ecb0e",
+      "displayName": "",
+      "id": "ecb0e",
+      "name": "building_windmill_yellow.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 1780
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "5df0ced7-e4c7-410b-9f1e-bbdf943df955@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/yellow/hexagons_medieval.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4b15": {
+      "importer": "gltf-scene",
+      "uuid": "5df0ced7-e4c7-410b-9f1e-bbdf943df955@b4b15",
+      "displayName": "",
+      "id": "b4b15",
+      "name": "building_windmill_yellow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "hexagons_medieval",
+        "uri": "db://assets/KayKit_Medieval_Hexagon_Pack_1.0_FREE/Assets/gltf/buildings/yellow/hexagons_medieval.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "5df0ced7-e4c7-410b-9f1e-bbdf943df955@52224",
+        "5df0ced7-e4c7-410b-9f1e-bbdf943df955@c79ad",
+        "5df0ced7-e4c7-410b-9f1e-bbdf943df955@ecb0e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5df0ced7-e4c7-410b-9f1e-bbdf943df955@e39f7"
+      ],
+      "materials": [
+        "5df0ced7-e4c7-410b-9f1e-bbdf943df955@83472"
+      ],
+      "scenes": [
+        "5df0ced7-e4c7-410b-9f1e-bbdf943df955@b4b15"
+      ]
+    }
+  }
+}
